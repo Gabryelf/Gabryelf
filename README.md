@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Анимированный заголовок -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&height=70&lines=Привет,+я+[Ваше+Имя];Full-Stack+Developer;Open+Source+Enthusiast;Problem+Solver" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&height=70&lines=Привет,+я+[Serj];Full-Stack+Developer;Open+Source+Enthusiast;Problem+Solver" alt="Typing SVG" />
 
 <!-- Статистика в одну строку -->
 <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff" height="165"/>
@@ -41,4 +41,4 @@ Python      12 hrs 30 mins  ████████████░░░░░�
 JavaScript  4 hrs 15 mins   █████████░░░░░░░░░░░░░   21.2%
 TypeScript  2 hrs 45 mins   █████░░░░░░░░░░░░░░░░░   13.8%
 Other       45 mins         ██░░░░░░░░░░░░░░░░░░░░   2.5%
-[![Codewars](https://pillow-cw.onrender.com/?user_name=Gabryelf&theme=default)](https://github.com/pogudo-e/pillow_cw)
+
