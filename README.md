@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20To%20My%20Profile!&fontSize=40&fontAlignY=35&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=55" />
 
 <!-- Профильная карточка -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github_dark" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gabrielf&theme=github_dark" width="100%"/>
 
 <!-- Статистика в карточках -->
 <div align="center">
