@@ -8,10 +8,10 @@
 
 <!-- Статистика в карточках -->
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=github_dark" height="180em"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME&theme=github_dark" height="180em"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_USERNAME&theme=github_dark" height="180em"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_USERNAME&theme=github_dark" height="180em"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gabrielf&theme=github_dark" height="180em"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GabrielfE&theme=github_dark" height="180em"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GabrielfE&theme=github_dark" height="180em"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gabrielf&theme=github_dark" height="180em"/>
 </div>
 
 <!-- Анимированные иконки технологий -->
@@ -26,7 +26,7 @@
 ```python
 class Developer:
     def __init__(self):
-        self.name = "[Ваше Имя]"
+        self.name = "Gabrielf"
         self.role = "Full-Stack Developer"
         self.languages = ["Python", "JavaScript", "TypeScript"]
         self.frameworks = ["React", "Node.js", "Django", "FastAPI"]
