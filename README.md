@@ -28,9 +28,9 @@ class Developer:
     def __init__(self):
         self.name = "Gabrielf"
         self.role = "Full-Stack Developer"
-        self.languages = ["Python", "JavaScript", "TypeScript"]
-        self.frameworks = ["React", "Node.js", "Django", "FastAPI"]
-        self.databases = ["PostgreSQL", "MongoDB", "Redis"]
+        self.languages = ["Python", "C#", "Java"]
+        self.frameworks = ["React", "SpringBoot", "Django", "FastAPI"]
+        self.databases = ["PostgreSQL", "MongoDB", "MySql"]
         self.tools = ["Docker", "Git", "AWS", "Linux"]
     
     def say_hi(self):
