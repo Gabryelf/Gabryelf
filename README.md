@@ -1,104 +1,40 @@
 <div align="center">
 
-<!-- Заголовок -->
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  Привет, я Serj
-</h1>
+<!-- Анимированный баннер -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20To%20My%20Profile!&fontSize=40&fontAlignY=35&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=55" />
 
-<h3 align="center">💻 Full-Stack Developer • 🚀 Tech Enthusiast • 📚 Continuous Learner</h3>
+<!-- Профильная карточка -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github_dark" width="100%"/>
 
-<!-- Статистика -->
+<!-- Статистика в карточках -->
 <div align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=github_dark" height="180em"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME&theme=github_dark" height="180em"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_USERNAME&theme=github_dark" height="180em"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_USERNAME&theme=github_dark" height="180em"/>
 </div>
 
-<!-- Streak -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=algolia" alt="mystreak"/>
-</div>
-
-## 🎯 Currently Working On
-
-- 🔭 Разрабатываю [Проект]
-- 🌱 Изучаю **Machine Learning, DevOps**
-- 👯 Ищу collaboration над **Open Source проектами**
-- 🤔 Помогаю с **Python, Web Development**
-- 💬 Спроси меня о **чем угодно** [здесь](https://github.com/YOUR_USERNAME/YOUR_USERNAME/issues)
-
-## 💼 Technical Skills
-
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
-      <br>AWS
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-      <br>Linux
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-      <br>VS Code
-    </td>
-  </tr>
-</table>
-
-## 📫 How to Reach Me
+<!-- Анимированные иконки технологий -->
+## ⚡ Technologies & Tools
 
 <p align="center">
-  <a href="https://t.me/your_username" target="blank">
-    <img align="center" src="https://skillicons.dev/icons?i=telegram" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/your-username" target="blank">
-    <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/your-username" target="blank">
-    <img align="center" src="https://skillicons.dev/icons?i=leetcode" height="30" width="40" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img align="center" src="https://skillicons.dev/icons?i=gmail" height="30" width="40" />
-  </a>
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=My%20Tech%20Stack&lineCount=2&theme=github_dark&line1=python,python,3776AB;javascript,javascript,F7DF1E;typescript,typescript,3178C6;react,react,61DAFB;&line2=node.js,node.js,339933;postgresql,postgresql,4169E1;mongodb,mongodb,47A248;docker,docker,2496ED;" alt="My Tech Stack" />
 </p>
 
-## 📊 This Week I Spent My Time On
+## 🎯 About Me
 
-```text
-💻 Programming:   15 hrs 30 mins
-📚 Learning:      5 hrs 15 mins  
-🔧 Open Source:   3 hrs 45 mins
-✍️ Writing:       2 hrs
+```python
+class Developer:
+    def __init__(self):
+        self.name = "[Ваше Имя]"
+        self.role = "Full-Stack Developer"
+        self.languages = ["Python", "JavaScript", "TypeScript"]
+        self.frameworks = ["React", "Node.js", "Django", "FastAPI"]
+        self.databases = ["PostgreSQL", "MongoDB", "Redis"]
+        self.tools = ["Docker", "Git", "AWS", "Linux"]
+    
+    def say_hi(self):
+        print("Thanks for dropping by!")
+
+me = Developer()
+me.say_hi()
