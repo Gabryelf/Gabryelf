@@ -4,14 +4,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20To%20My%20Profile!&fontSize=40&fontAlignY=35&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=55" />
 
 <!-- Профильная карточка -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gabrielf&theme=github_dark" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gabryelf&theme=github_dark" width="100%"/>
 
 <!-- Статистика в карточках -->
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gabrielf&theme=github_dark" height="180em"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gabrielf&theme=github_dark" height="180em"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gabrielf&theme=github_dark" height="180em"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gabrielf&theme=github_dark" height="180em"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gabryelf&theme=github_dark" height="180em"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gabryelf&theme=github_dark" height="180em"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gabryelf&theme=github_dark" height="180em"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gabryelf&theme=github_dark" height="180em"/>
 </div>
 
 <!-- Анимированные иконки технологий -->
