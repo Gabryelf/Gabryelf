@@ -37,22 +37,40 @@
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=Gabryelf&theme=radical&no-frame=true&row=1&margin-w=20)](https://github.com/ryo-ma/github-profile-trophy)
 
+<div align="center">
+
+<!-- Логотип и заголовок -->
+<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto+Slab&color=37bcf7&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=🎬+StreamFlow+DB;🚀+Multi-Database+Platform;💫+PostgreSQL+MySQL+MongoDB" alt="Header"/>
+
+<!-- Статистика -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gabryelf&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabryelf&layout=compact&theme=radical" height="150"/>
 </div>
 
-## 🎯 About Me
+<!-- Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabryelf&theme=radical" alt="mystreak"/>
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Gabrielf"
-        self.role = "Full-Stack Developer"
-        self.languages = ["Python", "C#", "Java"]
-        self.frameworks = ["React", "SpringBoot", "Django", "FastAPI"]
-        self.databases = ["PostgreSQL", "MongoDB", "MySql"]
-        self.tools = ["Docker", "Git", "AWS", "Linux"]
-    
-    def say_hi(self):
-        print("Thanks for dropping by!")
+<!-- Анимированная разделительная линия -->
+![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-me = Developer()
-me.say_hi()
+## 🛠️ Tech Stack
+
+<!-- Иконки технологий -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,postgresql,mysql,mongodb,redis,docker,aws,git,github,vscode,pycharm,linux,bash&theme=dark&perline=8" />
+</p>
+
+<!-- Badges -->
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
