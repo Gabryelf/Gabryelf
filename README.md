@@ -23,7 +23,7 @@
 
 <!-- Иконки технологий -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,postgresql,mysql,mongodb,redis,docker,aws,git,github,vscode,pycharm,linux,bash&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,postgresql,mysql,mongodb,redis,docker,ubuntu,git,github,vscode,pycharm,linux,bash,java,grafana,css,javascript,cs,unity,figma,lua,springboot&theme=dark&perline=8" />
 </p>
 
 
