@@ -1,10 +1,14 @@
 <div align="center">
 
-<!-- Анимированный баннер -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20To%20My%20Profile!&fontSize=40&fontAlignY=35&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=55" />
+<!-- Анимированный баннер 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20To%20My%20Profile!&fontSize=40&fontAlignY=35&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=55" /> -->
 
-<!-- Профильная карточка -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gabryelf&theme=github_dark" width="100%"/>
+<div align="center"><!-- Новогодний анимированный баннер --><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=🎄🎅✨&fontSize=50&fontAlignY=35&animation=twinkling&desc=Happy%20New%20Year%202026!&descAlignY=55&descSize=25" /><!-- Анимированный снег --><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=37BCF7&center=true&vCenter=true&width=800&height=80&lines=Welcome+to+my+GitHub+Profile!;Full-Stack+Developer+🎯;Tech+Enthusiast+⚡;Open+Source+Contributor+🚀" alt="Typing SVG" />
+
+<!-- Профильная карточка с новогодним стилем -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gabryelf&theme=github_dark&border_color=37bcf7&border_radius=15&ring_color=ff0000" width="100%"/>
+<!-- Анимированные снежинки через SVG -->
+<svg width="100%" height="60" xmlns="http://www.w3.org/2000/svg"> <path d="M-10 10 Q0 0 10 10" stroke="#37bcf7" fill="none" stroke-width="1"> <animate attributeName="d" values="M-10 10 Q0 0 10 10;M-10 30 Q0 20 10 30;M-10 10 Q0 0 10 10" dur="3s" repeatCount="indefinite"/> </path> <circle cx="50" cy="15" r="3" fill="#ffffff"> <animate attributeName="cy" values="15;50;15" dur="2s" repeatCount="indefinite"/> </circle> <circle cx="150" cy="25" r="2" fill="#ffffff"> <animate attributeName="cy" values="25;45;25" dur="1.5s" repeatCount="indefinite"/> </circle> </svg></div>
 
 <!-- Статистика в карточках -->
 <div align="center">
@@ -17,13 +21,16 @@
 <!-- Анимированные иконки технологий -->
 ## ⚡ Technologies & Tools
 
+<!-- Иконки технологий -->
 <p align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=My%20Tech%20Stack&lineCount=2&theme=github_dark&line1=python,python,3776AB;javascript,javascript,F7DF1E;typescript,typescript,3178C6;react,react,61DAFB;&line2=node.js,node.js,339933;postgresql,postgresql,4169E1;mongodb,mongodb,47A248;docker,docker,2496ED;" alt="My Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,postgresql,mysql,mongodb,redis,docker,aws,git,github,vscode,pycharm,linux,bash&theme=dark&perline=8" />
 </p>
+
 
 ![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ## 📊 GitHub Analytics
+
 
 <!-- Активность -->
 <div align="center">
@@ -40,7 +47,7 @@
 <div align="center">
 
 <!-- Логотип и заголовок -->
-<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto+Slab&color=37bcf7&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=🎬+StreamFlow+DB;🚀+Multi-Database+Platform;💫+PostgreSQL+MySQL+MongoDB" alt="Header"/>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto+Slab&color=37bcf7&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=🎬+Snippet+Platform;🚀+Battle+Script;💫+PostgreSQL+MySQL+MongoDB" alt="Header"/>
 
 <!-- Статистика -->
 <div align="center">
@@ -54,12 +61,6 @@
 <!-- Анимированная разделительная линия -->
 ![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-## 🛠️ Tech Stack
-
-<!-- Иконки технологий -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,postgresql,mysql,mongodb,redis,docker,aws,git,github,vscode,pycharm,linux,bash&theme=dark&perline=8" />
-</p>
 
 <!-- Badges -->
 <div align="center">
@@ -74,3 +75,5 @@
 </div>
 
 ![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
+<div style="margin: 30px 0;"> <img src="https://komarev.com/ghpvc/?username=Gabryelf&label=Profile+Views+🎄&color=ff0000&style=flat-square" alt="Profile Views" /> </div><!-- Завершающий баннер --><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&fontSize=30&fontAlignY=65&text=Thanks+For+Visiting!+✨&animation=twinkling&reversal=true" width="100%"/><!-- Итоговая надпись --><p align="center"> <i>✨ May your code always compile and your dreams deploy successfully in 2026! ✨</i> </p></div>
