@@ -83,4 +83,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gabryelf/Gabryelf/output/github-contribution-grid-snake.svg" />
   <img alt="Snake animation" src="https://raw.githubusercontent.com/Gabryelf/Gabryelf/output/github-contribution-grid-snake.svg" />
 </picture>
-
