@@ -18,12 +18,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gabryelf&theme=github_dark" height="180em"/>
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gabryelf/Gabryelf/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gabryelf/Gabryelf/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Gabryelf/Gabryelf/output/github-contribution-grid-snake.svg" />
-</picture>
-
 <!-- Анимированные иконки технологий -->
 ## ⚡ Technologies & Tools
 
@@ -44,6 +38,12 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gabryelf&bg_color=0d1117&color=37bcf7&line=37bcf7&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gabryelf/Gabryelf/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gabryelf/Gabryelf/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Gabryelf/Gabryelf/output/github-contribution-grid-snake.svg" />
+</picture>
 
 <!-- Трофеи -->
 <div align="center">
