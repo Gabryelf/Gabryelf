@@ -40,8 +40,9 @@
 </div>
 
 <!-- Трофеи -->
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=Gabryelf&theme=radical&no-frame=true&row=1&margin-w=20)](https://github.com/ryo-ma/github-profile-trophy)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh)
+
 ![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <!-- Логотип и заголовок -->
