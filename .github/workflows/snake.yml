@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   push:
     branches:
-    - main
+      - main
 
 jobs:
   generate:
@@ -12,13 +12,19 @@ jobs:
     timeout-minutes: 10
 
     steps:
+      # First, checkout the repository to make it accessible
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
       - name: Generate snake.svg
         uses: Platane/snk@master
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: 
+          outputs: |
             dist/github-snake.svg
-            dist/git-hub-snake-dark.svg?pallete=github-dark
+            dist/github-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
