@@ -17,31 +17,28 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Debug - Show current directory
-        run: |
-          echo "Текущая директория:"
-          pwd
-          ls -la
-
       - name: Generate snake.svg
-        uses: Platane/snk@v3.2.0  # Используем фиксированную версию
-        id: snake
+        uses: Platane/snk@v3.2.0
         with:
-          github_user_name: "Gabryelf"  # В кавычках и точно ваше имя
+          github_user_name: "Gabryelf"
+          # ВАЖНО: Правильные параметры для v3.2.0:
+          outputs: |
+            github-contribution-grid-snake.svg
+            github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Debug - Check generated files
         run: |
-          echo "Содержимое после генерации:"
+          echo "Файлы после генерации:"
           ls -la
-          echo "Проверяем наличие svg файлов..."
-          find . -name "*.svg" -type f
+          echo "SVG файлы:"
+          find . -name "*.svg" -type f | head -20
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./  # Публикуем из корня
+          publish_dir: ./
           publish_branch: output
-          keep_files: false  # Изменено с true
+          keep_files: false
