@@ -58,7 +58,14 @@
 <!-- Анимированная разделительная линия -->
 ![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-<div style="margin: 30px 0;"> <img src="https://komarev.com/ghpvc/?username=Gabryelf&label=Profile+Views+🎄&color=ff0000&style=flat-square" alt="Profile Views" /> </div><!-- Завершающий баннер --><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&fontSize=30&fontAlignY=65&text=Thanks+For+Visiting!+✨&animation=twinkling&reversal=true" width="100%"/><!-- Итоговая надпись --><p align="center"> <i>✨ May your code always compile and your dreams deploy successfully in 2026! ✨</i> </p></div>
+<div style="margin: 30px 0;"> <img src="https://komarev.com/ghpvc/?username=Gabryelf&label=Profile+Views+🎄&color=ff0000&style=flat-square" alt="Profile Views" /> 
+</div>
+<!-- Завершающий баннер -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&fontSize=30&fontAlignY=65&text=Thanks+For+Visiting!+✨&animation=twinkling&reversal=true" width="100%"/>
+<!-- Итоговая надпись -->
+<p align="center"> 
+  <i>✨ May your code always compile and your dreams deploy successfully in 2026! ✨</i> 
+</p></div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gabryelf/Gabryelf/output/github-contribution-grid-snake-dark.svg" />
