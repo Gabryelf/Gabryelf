@@ -9,29 +9,37 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     timeout-minutes: 10
 
     steps:
-      # First, checkout the repository to make it accessible
       - name: Checkout repository
         uses: actions/checkout@v3
 
       - name: Generate snake.svg
         uses: Platane/snk@master
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: Gabryelf  # Используйте прямое имя вместо переменной
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            github-snake.svg
+            github-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      # НОВЫЙ ШАГ: Проверка и подготовка файлов
+      - name: List and prepare generated files
+        run: |
+          echo "Созданные файлы:"
+          ls -la
+          echo "Копируем файлы в dist/"
+          mkdir -p dist
+          cp -v *.svg dist/ || true
+
       - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
+        uses: peaceiris/actions-gh-pages@v4
         with:
-          personal_token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
-          publish_dir: ./dist
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./  # ИЗМЕНЕНО: публикуем из корня, а не из dist/
           publish_branch: output
           keep_files: true
-          user_name: github-actions[bot]
-          user_email: 41898282+github-actions[bot]@users.noreply.github.com
