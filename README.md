@@ -5,8 +5,6 @@
 
 <div align="center"><!-- Новогодний анимированный баннер --><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=🎄🎅✨&fontSize=50&fontAlignY=35&animation=twinkling&desc=Happy%20New%20Year%202026!&descAlignY=55&descSize=25" /><!-- Анимированный снег --><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=37BCF7&center=true&vCenter=true&width=800&height=80&lines=Welcome+to+my+GitHub+Profile!;Full-Stack+Developer+🎯;Tech+Enthusiast+⚡;Open+Source+Contributor+🚀" alt="Typing SVG" />
 
-<!-- Профильная карточка с новогодним стилем -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gabryelf&theme=github_dark&border_color=37bcf7&border_radius=15&ring_color=ff0000" width="100%"/>
 <!-- Анимированные снежинки через SVG -->
 <svg width="100%" height="60" xmlns="http://www.w3.org/2000/svg"> <path d="M-10 10 Q0 0 10 10" stroke="#37bcf7" fill="none" stroke-width="1"> <animate attributeName="d" values="M-10 10 Q0 0 10 10;M-10 30 Q0 20 10 30;M-10 10 Q0 0 10 10" dur="3s" repeatCount="indefinite"/> </path> <circle cx="50" cy="15" r="3" fill="#ffffff"> <animate attributeName="cy" values="15;50;15" dur="2s" repeatCount="indefinite"/> </circle> <circle cx="150" cy="25" r="2" fill="#ffffff"> <animate attributeName="cy" values="25;45;25" dur="1.5s" repeatCount="indefinite"/> </circle> </svg></div>
 
