@@ -29,9 +29,6 @@
 
 ## 📊 GitHub Analytics
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Gabryelf&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 <!-- Активность -->
 <div align="center">
   
