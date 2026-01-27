@@ -1,59 +1,57 @@
 <div align="center">
 
-<!-- Анимированный баннер 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20To%20My%20Profile!&fontSize=40&fontAlignY=35&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=55" /> -->
+<!-- Динамичный заголовок с анимацией -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:7C3AED&height=200&section=header&text=Gabriel's%20GitHub&fontSize=50&fontAlignY=35&animation=fadeIn&desc=Full-Stack%20Developer%20•%20Architecture%20Enthusiast&descAlignY=55&descSize=20&fontColor=ffffff" />
 
-<div align="center"><!-- Новогодний анимированный баннер --><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=🎄🎅✨&fontSize=50&fontAlignY=35&animation=twinkling&desc=Happy%20New%20Year%202026!&descAlignY=55&descSize=25" /><!-- Анимированный снег --><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=37BCF7&center=true&vCenter=true&width=800&height=80&lines=Welcome+to+my+GitHub+Profile!;Full-Stack+Developer+🎯;Tech+Enthusiast+⚡;Open+Source+Contributor+🚀" alt="Typing SVG" />
+<!-- Анимированная строка ввода -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&height=80&lines=Building+Scalable+Systems+⚡;Crafting+Clean+Architecture+🏗️;Passionate+About+Backend+Development+🔧;Open+Source+Contributor+🚀" alt="Typing SVG" />
 
-<!-- Анимированные снежинки через SVG -->
-<svg width="100%" height="60" xmlns="http://www.w3.org/2000/svg"> <path d="M-10 10 Q0 0 10 10" stroke="#37bcf7" fill="none" stroke-width="1"> <animate attributeName="d" values="M-10 10 Q0 0 10 10;M-10 30 Q0 20 10 30;M-10 10 Q0 0 10 10" dur="3s" repeatCount="indefinite"/> </path> <circle cx="50" cy="15" r="3" fill="#ffffff"> <animate attributeName="cy" values="15;50;15" dur="2s" repeatCount="indefinite"/> </circle> <circle cx="150" cy="25" r="2" fill="#ffffff"> <animate attributeName="cy" values="25;45;25" dur="1.5s" repeatCount="indefinite"/> </circle> </svg></div>
+<!-- Разделитель -->
+![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-<!-- Статистика в карточках -->
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gabryelf&theme=github_dark" height="180em"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gabryelf&theme=github_dark" height="180em"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gabryelf&theme=github_dark" height="180em"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gabryelf&theme=github_dark" height="180em"/>
-</div>
+## 🛠️ Tech Stack
 
-<!-- Анимированные иконки технологий -->
-## ⚡ Technologies & Tools
-
-<!-- Иконки технологий -->
+<!-- Иконки технологий с градиентом -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,postgresql,mysql,mongodb,redis,docker,ubuntu,git,github,vscode,pycharm,linux,bash,java,grafana,css,javascript,cs,unity,figma,lua,springboot&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,postgresql,mysql,mongodb,redis,docker,kubernetes,aws,nginx,git,github,githubactions,linux,bash,grafana,prometheus,elasticsearch,rabbitmq,kafka,terraform&theme=dark&perline=8" />
 </p>
 
-
 ![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-## 📊 GitHub Analytics
+## 📈 GitHub Analytics
 
-<!-- Активность -->
+<!-- Компактные карточки статистики -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabryelf&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=4F46E5"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabryelf&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=7C3AED"/>
+</div>
+
+<!-- Граф активности -->
 <div align="center">
   
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gabryelf&bg_color=0d1117&color=37bcf7&line=37bcf7&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gabryelf&bg_color=0d1117&color=7C3AED&line=4F46E5&point=ffffff&area=true&hide_border=true&custom_title=My%20Contribution%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
-<!-- Логотип и заголовок -->
-<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto+Slab&color=37bcf7&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=🎬+Snippet+Platform;🚀+Battle+Script;💫+PostgreSQL+MySQL+MongoDB" alt="Header"/>
-
-
-<!-- Анимированная разделительная линия -->
 ![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-<div style="margin: 30px 0;"> <img src="https://komarev.com/ghpvc/?username=Gabryelf&label=Profile+Views+🎄&color=ff0000&style=flat-square" alt="Profile Views" /> 
-</div>
-<!-- Завершающий баннер -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&fontSize=30&fontAlignY=65&text=Thanks+For+Visiting!+✨&animation=twinkling&reversal=true" width="100%"/>
-<!-- Итоговая надпись -->
-<p align="center"> 
-  <i>✨ May your code always compile and your dreams deploy successfully in 2026! ✨</i> 
-</p></div>
+## 🌟 Featured Projects
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gabryelf/Gabryelf/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gabryelf/Gabryelf/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Gabryelf/Gabryelf/output/github-contribution-grid-snake.svg" />
-</picture>
+<!-- Карточки проектов -->
+<div align="center">
+
+### 🚀 High-Performance Systems
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabryelf&repo=Battle_Script&theme=radical&hide_border=true&bg_color=0d1117&title_color=7C3AED)](https://github.com/Gabryelf/Battle_Script)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabryelf&repo=IssuesGenerator&theme=radical&hide_border=true&bg_color=0d1117&title_color=7C3AED)](https://github.com/Gabryelf/IssuesGenerator)
+
+
+### 🐦 Base learning & experiments
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabryelf&repo=First_Steps_Python&theme=radical&hide_border=true&bg_color=0d1117&title_color=7C3AED)](https://github.com/Gabryelf/First_Steps_Python)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabryelf&repo=TrainingGameDev&theme=radical&hide_border=true&bg_color=0d1117&title_color=7C3AED)](https://github.com/Gabryelf/TrainingGameDev)
+
+</div>
+
+![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
+
+<div style="margin: 30px 0;"> <img src="https://komarev.com/ghpvc/?username=Gabryelf&label=Profile%20Views&color=7C3AED&style=for-the-badge" alt="Profile Views" /> <img src="https://img.shields.io/github/followers/Gabryelf?label=Followers&style=for-the-badge&color=4F46E5" alt="Followers" /> <img src="https://img.shields.io/github/last-commit/Gabryelf/Gabryelf?style=for-the-badge&color=7C3AED" alt="Last Commit" /> </div><!-- Анимация змейки --><picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gabryelf/Gabryelf/output/github-contribution-grid-snake-dark.svg" /> <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Gabryelf/Gabryelf/output/github-contribution-grid-snake.svg" /> </picture><!-- Завершающий баннер --><img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:7C3AED&height=120&section=footer&fontSize=30&fontAlignY=65&text=Connect+With+Me+🌟&animation=fadeIn&reversal=true" width="100%"/>
