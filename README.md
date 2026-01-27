@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Динамичный заголовок с анимацией -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:7C3AED&height=200&section=header&text=Gabriel's%20GitHub&fontSize=50&fontAlignY=35&animation=fadeIn&desc=Full-Stack%20Developer%20•%20Architecture%20Enthusiast&descAlignY=55&descSize=20&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:7C3AED&height=200&section=header&text=Gabriyelf%20GitHub&fontSize=50&fontAlignY=35&animation=fadeIn&desc=Full-Stack%20Developer%20•%20Architecture%20Enthusiast&descAlignY=55&descSize=20&fontColor=ffffff" />
 
-<!-- Анимированная строка ввода -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&height=80&lines=Building+Scalable+Systems+⚡;Crafting+Clean+Architecture+🏗️;Passionate+About+Backend+Development+🔧;Open+Source+Contributor+🚀" alt="Typing SVG" />
+<!-- Анимированная строка ввода с юморными вариантами -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&height=80&lines=Professional+Debugger+😂;Code+that+works+on+my+machine+🤔;Senior+Copy-Paste+Engineer+📋;Turning+coffee+into+code+since+...☕;When+in+doubt,+git+push+--force+💥;I+don't+always+test+my+code+...😅;It's+a+feature,+not+a+bug+🚀;404:+Sleep+not+found+😴;Async+await+my+morning+coffee+⚡;Commit+message:+'Fixed+stuff'+🤷‍♂️;This+comment+is+self-explanatory+💡;Works+on+my+machine!+✅" alt="Typing SVG" />
 
 <!-- Разделитель -->
 ![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
@@ -13,7 +13,7 @@
 
 <!-- Иконки технологий с градиентом -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,postgresql,mysql,mongodb,redis,docker,kubernetes,aws,nginx,git,github,githubactions,linux,bash,grafana,prometheus,elasticsearch,rabbitmq,kafka,terraform&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,postgresql,mysql,mongodb,redis,docker,nginx,githubactions,grafana,prometheus,ubuntu,git,github,vscode,pycharm,linux,bash,java,css,javascript,cs,unity,figma&theme=dark&perline=8" />
 </p>
 
 ![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
