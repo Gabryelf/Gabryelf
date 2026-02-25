@@ -1,3 +1,4 @@
+# для активации изменить название на snake.yml
 name: Generate Snake Animation
 on:
   schedule: [cron: "0 0 * * *"]
