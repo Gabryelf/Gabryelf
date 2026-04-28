@@ -13,7 +13,7 @@
 
 <!-- Иконки технологий с градиентом -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,postgresql,mysql,mongodb,redis,docker,nginx,githubactions,grafana,prometheus,ubuntu,git,github,vscode,pycharm,linux,bash,java,css,javascript,cs,unity,figma&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,postgresql,mysql,mongodb,redis,docker,nginx,githubactions,grafana,prometheus,ubuntu,git,github,vscode,pycharm,linux,bash,java,css,javascript,cs,unity,figma,blender,bootstrap,rider&theme=dark&perline=8" />
 </p>
 
 ![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
