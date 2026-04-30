@@ -1,13 +1,13 @@
 <div align="center">
 <!-- Разделитель -->
-  
-![divider](https://github.com/Gabryelf/Gabryelf/blob/main/docs/github-octopuss.gif)
 
 <!-- Динамичный заголовок с анимацией -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:7C3AED&height=200&section=header&text=Gabryelf%20GitHub&fontSize=50&fontAlignY=35&animation=fadeIn&desc=Аля,Full-Stack%20👌%20•%20✌️%20-%20🤘&descAlignY=55&descSize=20&fontColor=ffffff" />
 
 <!-- Анимированная строка -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&height=80&lines=Пью+кофе%2C+пишу+код%2C+чиню+баги+☕;Сеньор+по+CTRL%2BC+%2B+CTRL%2BV+📋;git+commit+-m+'fix'+—+мой+стиль+📇;Жиза%2C+а+на+моём+компе+работало+✅;Документация+—+это+миф%2C+созданный+Stack+Overflow+📚;JavaScript%3A+написал+три+строчки%2C+получил+500+ошибок+☕;Моё+хобби+—+дебажить+код+не+глядя+на+скобки+🔍;Кто+не+тестит+в+проде%2C+тот+не+тестит+вообще+😎;Накопил+на+подписку+GPT+—+скоро+код+станет+чище+💸;Пушь+в+main+—+потом+разберемся+🔥" alt="Typing SVG" />
+
+![divider](https://github.com/Gabryelf/Gabryelf/blob/main/docs/github-octopuss.gif)
 
 <!-- Разделитель -->
 ![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
