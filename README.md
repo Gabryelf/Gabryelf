@@ -1,4 +1,7 @@
 <div align="center">
+<!-- Разделитель -->
+  
+![divider](https://github.com/Gabryelf/Gabryelf/blob/main/docs/github-octopuss.gif)
 
 <!-- Динамичный заголовок с анимацией -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:7C3AED&height=200&section=header&text=Gabryelf%20GitHub&fontSize=50&fontAlignY=35&animation=fadeIn&desc=Аля,Full-Stack%20👌%20•%20✌️%20-%20🤘&descAlignY=55&descSize=20&fontColor=ffffff" />
