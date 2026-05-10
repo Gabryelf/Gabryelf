@@ -34,7 +34,13 @@
   <a href="https://github.com/Gabryelf/TutorialApp" target="_blank">
     <img src="https://github.com/Gabryelf/TutorialApp/blob/main/TutorialApp.gif" alt="Unity Game" width="280" height="160" style="border-radius: 15px; margin: 10px; border: 2px solid #4F46E5;" />
   </a>
+
+  </a>
+  <a href="https://github.com/Gabryelf/Atlas-Assets" target="_blank">
+    <img src="https://github.com/Gabryelf/Atlas-Assets/blob/main/docs/images/screens/gif/logo-2.gif" alt="Atlas Assets Sprite" width="280" height="160" style="border-radius: 15px; margin: 10px; border: 2px solid #4F46E5;" />
+  </a>
 </p>
+
 
 <!-- Разделитель -->
 ![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
