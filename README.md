@@ -42,7 +42,7 @@
 
 
 <!-- Разделитель -->
-<img src="https://github.com/Gabryelf/Atlas-Assets/raw/main/docs/animations/gifs-line/gold-neon-flash.gif" alt="gold-neon-flash">
+<img src="https://github.com/Gabryelf/Atlas-Assets/raw/main/docs/animations/gifs-line/pulse-cian.gif" alt="gold-neon-flash">
 
 <!-- СТАТИСТИКА ПРОФИЛЯ -->
 <div style="margin: 30px 0;"> <img src="https://komarev.com/ghpvc/?username=Gabryelf&label=Profile%20Views&color=7C3AED&style=for-the-badge" alt="Profile Views" /> <img src="https://img.shields.io/github/followers/Gabryelf?label=Followers&style=for-the-badge&color=4F46E5" alt="Followers" /> <img src="https://img.shields.io/github/last-commit/Gabryelf/Gabryelf?style=for-the-badge&color=7C3AED" alt="Last Commit" /> </div>
