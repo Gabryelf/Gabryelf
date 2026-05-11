@@ -1,11 +1,10 @@
 <div align="center">
 <!-- Разделитель -->
 
-<!-- Динамичный заголовок с анимацией -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:7C3AED&height=200&section=header&text=Gabryelf%20GitHub&fontSize=50&fontAlignY=35&animation=fadeIn&desc=Аля,Full-Stack%20👌%20•%20✌️%20-%20🤘&descAlignY=55&descSize=20&fontColor=ffffff" />
+<!-- ШАПКА (зеленый терминальный стиль) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:059669,100:064E3B&height=200&section=header&text=Gabryelf%20GitHub&fontSize=50&fontAlignY=35&animation=fadeIn&desc=&descAlignY=55&descSize=20&fontColor=ffffff" />
 
-<!-- Анимированная строка -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&height=80&lines=Пью+кофе%2C+пишу+код%2C+чиню+баги+☕;Сеньор+по+CTRL%2BC+%2B+CTRL%2BV+📋;git+commit+-m+'fix'+—+мой+стиль+📇;Жиза%2C+а+на+моём+компе+работало+✅;Документация+—+это+миф%2C+созданный+Stack+Overflow+📚;JavaScript%3A+написал+три+строчки%2C+получил+500+ошибок+☕;Моё+хобби+—+дебажить+код+не+глядя+на+скобки+🔍;Кто+не+тестит+в+проде%2C+тот+не+тестит+вообще+😎;Накопил+на+подписку+GPT+—+скоро+код+станет+чище+💸;Пушь+в+main+—+потом+разберемся+🔥" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1300&color=10B981&center=true&vCenter=true&width=950&height=70&lines=morning+☕;day+🍔;night+🍜;ever+🍰" alt="Мои хобби" />
 
 ![divider](https://github.com/Gabryelf/Gabryelf/blob/main/docs/github-octopuss.gif)
 
@@ -48,7 +47,6 @@
 <!-- СТАТИСТИКА ПРОФИЛЯ -->
 <div style="margin: 30px 0;"> <img src="https://komarev.com/ghpvc/?username=Gabryelf&label=Profile%20Views&color=7C3AED&style=for-the-badge" alt="Profile Views" /> <img src="https://img.shields.io/github/followers/Gabryelf?label=Followers&style=for-the-badge&color=4F46E5" alt="Followers" /> <img src="https://img.shields.io/github/last-commit/Gabryelf/Gabryelf?style=for-the-badge&color=7C3AED" alt="Last Commit" /> </div>
 
-<!-- ЗАВЕРШАЮЩИЙ БАННЕР -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:7C3AED&height=120&section=footer&fontSize=30&fontAlignY=65&text=Удачи+в+коде%2C+бро!+🌟&animation=fadeIn&reversal=true" width="100%"/>
-
+<!-- ПОДВАЛ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:059669,100:064E3B&height=140&section=footer&fontSize=22&fontAlignY=65&text=I've%20been%20collecting%20Pokemon%20since%20childhood%20—%20now%20with%20code%20%20&animation=fadeIn&reversal=true" width="100%"/>
 </div>
