@@ -2,26 +2,26 @@
 <!-- Разделитель -->
 
 <!-- ШАПКА (зеленый терминальный стиль) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:059669,100:064E3B&height=200&section=header&text=Gabryelf%20GitHub&fontSize=50&fontAlignY=35&animation=fadeIn&desc=&descAlignY=55&descSize=20&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:059669,100:064E3B&height=200&section=header&text=Gab%20Hub&fontSize=50&fontAlignY=35&animation=fadeIn&desc=&descAlignY=55&descSize=20&fontColor=ffffff" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1300&color=10B981&center=true&vCenter=true&width=950&height=70&lines=morning+☕;day+🍔;night+🍜;ever+🍰" alt="Мои хобби" />
 
 ![divider](https://github.com/Gabryelf/Gabryelf/blob/main/docs/github-octopuss.gif)
 
 <!-- Разделитель -->
-![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+<img src="https://github.com/Gabryelf/Atlas-Assets/raw/main/docs/animations/gifs-line/cian-neon-flash.gif" alt="gold-neon-flash">
 
-## Мой Арсенал
+## My stack
 
 <!-- Иконки технологий с градиентом -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,postgresql,mysql,mongodb,redis,docker,nginx,githubactions,grafana,prometheus,ubuntu,git,github,vscode,pycharm,linux,bash,java,css,javascript,cs,unity,figma,blender,bootstrap,rider&theme=dark&perline=8" />
 </p>
 
-![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+<img src="https://github.com/Gabryelf/Atlas-Assets/raw/main/docs/animations/gifs-line/cian-neon-flash.gif" alt="gold-neon-flash">
 
 <!-- КЛИКАБЕЛЬНЫЕ ГИФКИ С ПРОЕКТАМИ -->
-<h2>Учебные проекты</h2>
+<h2>My vibe</h2>
 
 <p align="center">
   <a href="https://github.com/Gabryelf/Survivor-Game" target="_blank">
@@ -42,7 +42,7 @@
 
 
 <!-- Разделитель -->
-![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+<img src="https://github.com/Gabryelf/Atlas-Assets/raw/main/docs/animations/gifs-line/gold-neon-flash.gif" alt="gold-neon-flash">
 
 <!-- СТАТИСТИКА ПРОФИЛЯ -->
 <div style="margin: 30px 0;"> <img src="https://komarev.com/ghpvc/?username=Gabryelf&label=Profile%20Views&color=7C3AED&style=for-the-badge" alt="Profile Views" /> <img src="https://img.shields.io/github/followers/Gabryelf?label=Followers&style=for-the-badge&color=4F46E5" alt="Followers" /> <img src="https://img.shields.io/github/last-commit/Gabryelf/Gabryelf?style=for-the-badge&color=7C3AED" alt="Last Commit" /> </div>
