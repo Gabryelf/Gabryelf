@@ -50,6 +50,13 @@
 <!-- СТАТИСТИКА ПРОФИЛЯ -->
 <div style="margin: 30px 0;"> <img src="https://komarev.com/ghpvc/?username=Gabryelf&label=Profile%20Views&color=7C3AED&style=for-the-badge" alt="Profile Views" /> <img src="https://img.shields.io/github/followers/Gabryelf?label=Followers&style=for-the-badge&color=4F46E5" alt="Followers" /> <img src="https://img.shields.io/github/last-commit/Gabryelf/Gabryelf?style=for-the-badge&color=7C3AED" alt="Last Commit" /> </div>
 
+<!-- Активность -->
+<div align="center">
+  
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gabryelf&bg_color=0d1117&color=37bcf7&line=37bcf7&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
 <!-- ПОДВАЛ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:059669,100:064E3B&height=140&section=footer&fontSize=22&fontAlignY=65&text=I've%20been%20collecting%20Pokemon%20since%20childhood%20—%20now%20with%20code%20%20&animation=fadeIn&reversal=true" width="100%"/>
 </div>
