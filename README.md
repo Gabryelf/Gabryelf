@@ -8,6 +8,9 @@
 
 ![divider](https://github.com/Gabryelf/Gabryelf/blob/main/docs/github-octopuss.gif)
 
+<!-- Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabryelf&theme=radical" alt="mystreak"/>
+
 <!-- Разделитель -->
 <img src="https://github.com/Gabryelf/Atlas-Assets/raw/main/docs/animations/gifs-line/cian-neon-flash.gif" alt="gold-neon-flash">
 
