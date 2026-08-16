@@ -11,6 +11,15 @@
 <!-- Streak -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabryelf&theme=radical" alt="mystreak"/>
 
+<!-- Статистика в карточках -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gabryelf&theme=github_dark" height="180em"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gabryelf&theme=github_dark" height="180em"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gabryelf&theme=github_dark" height="180em"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gabryelf&theme=github_dark" height="180em"/>
+</div>
+
+
 <!-- Разделитель -->
 <img src="https://github.com/Gabryelf/Atlas-Assets/raw/main/docs/animations/gifs-line/cian-neon-flash.gif" alt="gold-neon-flash">
 
