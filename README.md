@@ -1,27 +1,26 @@
 <div align="center">
 <!-- Разделитель -->
 
-<!-- ШАПКА (зеленый терминальный стиль) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:059669,100:064E3B&height=200&section=header&text=Gab%20Hub&fontSize=50&fontAlignY=35&animation=fadeIn&desc=&descAlignY=55&descSize=20&fontColor=ffffff" />
+<!-- ШАПКА (бирюзово-голубой терминальный стиль) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:0E7490&height=200&section=header&text=Gab%20Hub&fontSize=50&fontAlignY=35&animation=fadeIn&desc=&descAlignY=55&descSize=20&fontColor=ffffff" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1300&color=10B981&center=true&vCenter=true&width=950&height=70&lines=morning+☕;day+🍔;night+🍜;ever+🍰" alt="Мои хобби" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1300&color=22D3EE&center=true&vCenter=true&width=950&height=70&lines=morning+☕;day+🍔;night+🍜;ever+🍰" alt="Мои хобби" />
 
 ![divider](https://github.com/Gabryelf/Gabryelf/blob/main/docs/github-octopuss.gif)
 
 <!-- Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabryelf&theme=radical" alt="mystreak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabryelf&theme=blue-green" alt="mystreak"/>
 
 <!-- Статистика в карточках -->
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gabryelf&theme=github_dark" height="180em"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gabryelf&theme=github_dark" height="180em"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gabryelf&theme=github_dark" height="180em"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gabryelf&theme=github_dark" height="180em"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gabryelf&theme=tokyonight" height="180em"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gabryelf&theme=tokyonight" height="180em"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gabryelf&theme=tokyonight" height="180em"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gabryelf&theme=tokyonight" height="180em"/>
 </div>
 
-
 <!-- Разделитель -->
-<img src="https://github.com/Gabryelf/Atlas-Assets/raw/main/docs/animations/gifs-line/cian-neon-flash.gif" alt="gold-neon-flash">
+<img src="https://github.com/Gabryelf/Atlas-Assets/raw/main/docs/animations/gifs-line/cian-neon-flash.gif" alt="cian-neon-flash">
 
 ## My stack
 
@@ -30,42 +29,41 @@
   <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,postgresql,mysql,mongodb,redis,docker,nginx,githubactions,maven,gradle,grafana,prometheus,ubuntu,git,github,vscode,pycharm,linux,bash,java,npm,css,javascript,html,md,cs,unity,figma,blender,bootstrap,rider&theme=dark&perline=8" />
 </p>
 
-<img src="https://github.com/Gabryelf/Atlas-Assets/raw/main/docs/animations/gifs-line/cian-neon-flash.gif" alt="gold-neon-flash">
+<img src="https://github.com/Gabryelf/Atlas-Assets/raw/main/docs/animations/gifs-line/cian-neon-flash.gif" alt="cian-neon-flash">
 
 <!-- КЛИКАБЕЛЬНЫЕ ГИФКИ С ПРОЕКТАМИ -->
 <h2>My vibe</h2>
 
 <p align="center">
   <a href="https://github.com/Gabryelf/Survivor-Game" target="_blank">
-    <img src="https://github.com/Gabryelf/Survivor-Game/blob/main/docs/logo/logo-2.gif?cid=ecf05e47i3v0oc2s3i3i3i3i3i3i3i3i3i3i3i3i3i3&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Pet-проект на Django" width="280" height="250" style="border-radius: 15px; margin: 10px; border: 2px solid #4F46E5;" />
+    <img src="https://github.com/Gabryelf/Survivor-Game/blob/main/docs/logo/logo-2.gif?cid=ecf05e47i3v0oc2s3i3i3i3i3i3i3i3i3i3i3i3i3i3&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Pet-проект на Django" width="280" height="250" style="border-radius: 15px; margin: 10px; border: 2px solid #06B6D4;" />
   </a>
   <a href="https://github.com/Gabryelf/PokeClicker" target="_blank">
-    <img src="https://github.com/Gabryelf/PokeClicker/blob/main/images/logo/Pokemon-Clicker-logo3.gif" alt="Бот на Python" width="280" height="100" style="border-radius: 15px; margin: 10px; border: 32px solid #7C3AED;" />
+    <img src="https://github.com/Gabryelf/PokeClicker/blob/main/images/logo/Pokemon-Clicker-logo3.gif" alt="Бот на Python" width="280" height="100" style="border-radius: 15px; margin: 10px; border: 32px solid #0EA5E9;" />
   </a>
   <a href="https://github.com/Gabryelf/TutorialApp" target="_blank">
-    <img src="https://github.com/Gabryelf/TutorialApp/blob/main/TutorialApp.gif" alt="Unity Game" width="280" height="160" style="border-radius: 15px; margin: 10px; border: 2px solid #4F46E5;" />
+    <img src="https://github.com/Gabryelf/TutorialApp/blob/main/TutorialApp.gif" alt="Unity Game" width="280" height="160" style="border-radius: 15px; margin: 10px; border: 2px solid #06B6D4;" />
   </a>
 
   </a>
   <a href="https://github.com/Gabryelf/Atlas-Assets" target="_blank">
-    <img src="https://github.com/Gabryelf/Atlas-Assets/blob/main/docs/images/screens/gif/logo-2.gif" alt="Atlas Assets Sprite" width="280" height="160" style="border-radius: 15px; margin: 10px; border: 2px solid #4F46E5;" />
+    <img src="https://github.com/Gabryelf/Atlas-Assets/blob/main/docs/images/screens/gif/logo-2.gif" alt="Atlas Assets Sprite" width="280" height="160" style="border-radius: 15px; margin: 10px; border: 2px solid #06B6D4;" />
   </a>
 </p>
 
-
 <!-- Разделитель -->
-<img src="https://github.com/Gabryelf/Atlas-Assets/raw/main/docs/animations/gifs-line/pulse-cian.gif" alt="gold-neon-flash">
+<img src="https://github.com/Gabryelf/Atlas-Assets/raw/main/docs/animations/gifs-line/pulse-cian.gif" alt="pulse-cian">
 
 <!-- СТАТИСТИКА ПРОФИЛЯ -->
-<div style="margin: 30px 0;"> <img src="https://komarev.com/ghpvc/?username=Gabryelf&label=Profile%20Views&color=7C3AED&style=for-the-badge" alt="Profile Views" /> <img src="https://img.shields.io/github/followers/Gabryelf?label=Followers&style=for-the-badge&color=4F46E5" alt="Followers" /> <img src="https://img.shields.io/github/last-commit/Gabryelf/Gabryelf?style=for-the-badge&color=7C3AED" alt="Last Commit" /> </div>
+<div style="margin: 30px 0;"> <img src="https://komarev.com/ghpvc/?username=Gabryelf&label=Profile%20Views&color=0891B2&style=for-the-badge" alt="Profile Views" /> <img src="https://img.shields.io/github/followers/Gabryelf?label=Followers&style=for-the-badge&color=0284C7" alt="Followers" /> <img src="https://img.shields.io/github/last-commit/Gabryelf/Gabryelf?style=for-the-badge&color=0891B2" alt="Last Commit" /> </div>
 
 <!-- Активность -->
 <div align="center">
   
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gabryelf&bg_color=0d1117&color=37bcf7&line=37bcf7&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gabryelf&bg_color=0d1117&color=22D3EE&line=06B6D4&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 <!-- ПОДВАЛ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:059669,100:064E3B&height=140&section=footer&fontSize=22&fontAlignY=65&text=I've%20been%20collecting%20Pokemon%20since%20childhood%20—%20now%20with%20code%20%20&animation=fadeIn&reversal=true" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:0E7490&height=140&section=footer&fontSize=22&fontAlignY=65&text=I've%20been%20collecting%20Pokemon%20since%20childhood%20—%20now%20with%20code%20%20&animation=fadeIn&reversal=true" width="100%"/>
 </div>
