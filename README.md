@@ -35,6 +35,9 @@
 <h2>My vibe</h2>
 
 <p align="center">
+   <a href="https://github.com/Gabryelf/Myths-of-Taurida" target="_blank">
+    <img src="https://github.com/Gabryelf/Myths-of-Taurida/blob/main/docs/Myths-of-Taurida-logo.gif?cid=ecf05e47i3v0oc2s3i3i3i3i3i3i3i3i3i3i3i3i3i3&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Pet-проект на Django" width="280" height="250" style="border-radius: 15px; margin: 10px; border: 2px solid #06B6D4;" />
+  </a>
   <a href="https://github.com/Gabryelf/Survivor-Game" target="_blank">
     <img src="https://github.com/Gabryelf/Survivor-Game/blob/main/docs/logo/logo-2.gif?cid=ecf05e47i3v0oc2s3i3i3i3i3i3i3i3i3i3i3i3i3i3&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Pet-проект на Django" width="280" height="250" style="border-radius: 15px; margin: 10px; border: 2px solid #06B6D4;" />
   </a>
