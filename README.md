@@ -26,7 +26,7 @@
 
 <!-- Иконки технологий с градиентом -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,postgresql,mysql,mongodb,redis,docker,nginx,githubactions,maven,gradle,grafana,prometheus,ubuntu,git,github,vscode,pycharm,linux,bash,java,npm,css,javascript,html,md,cs,unity,figma,blender,bootstrap,rider,cs,nodejs,dotnet,spring&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,postgresql,mysql,mongodb,redis,docker,nginx,githubactions,maven,gradle,grafana,prometheus,ubuntu,git,github,vscode,pycharm,linux,bash,java,npm,css,javascript,html,md,cs,unity,figma,blender,bootstrap,rider,express,nodejs,dotnet,spring,tailwind,threejs,vite,arduino,sqlite&theme=dark&perline=8" />
 </p>
 
 <img src="https://github.com/Gabryelf/Atlas-Assets/raw/main/docs/animations/gifs-line/cian-neon-flash.gif" alt="cian-neon-flash">
